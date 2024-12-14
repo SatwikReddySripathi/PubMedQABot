@@ -7,7 +7,6 @@ This project implements a medical question-answering chatbot leveraging a Fine-T
 
  - It uses the DhanushAkula/Llama-2-7b-chat-finetune, which is a **large language model (LLM)** that has been fine-tuned.
    * Name - **tinyllama-finetune**
-   * Quant method - q2_K
    * Bits - 2
    * Size - **2.5 GB**
    * Max RAM required - 5.37 GB
