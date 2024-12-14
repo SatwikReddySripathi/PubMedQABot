@@ -38,9 +38,10 @@ Press Enter to create your local clone.
 ```terminal
    chainlit run model.py -w
 ```
-## ChatBot Conversession
-
+## ChatBot Conversation
+This is how the UI would look like
 ![ChatBot Conversation img-1](https://github.com/SatwikReddySripathi/PubMedQABot/blob/main/assets/ui.png)
+This is the internal working of the retriver (i.e the input query passed and the context that has been fetched)
 ![ChatBot Conversation img-2](https://github.com/SatwikReddySripathi/PubMedQABot/blob/main/assets/rag1.jpg)
 
 
