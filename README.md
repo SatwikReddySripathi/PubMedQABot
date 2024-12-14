@@ -47,9 +47,9 @@ This is the internal working of the retriver (i.e the input query passed and the
 
 
 ## Contributors
-@satwikReddySripathi
-@DhanushAkula
-## 📄 License
+[@SatwikReddySripathi](https://github.com/SatwikReddySripathi/)
+[@DhanushAkula](https://github.com/DhanushAkula/)
+## License
 
 This project is licensed under the [MIT License](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/blob/main/LICENSE).
 
